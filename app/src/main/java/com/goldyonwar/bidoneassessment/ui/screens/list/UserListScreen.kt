@@ -199,7 +199,7 @@ fun UserItemPreview() {
     }
 }
 
-@Preview(showBackground = true, backgroundColor = 0xFFF0F0F0) // Background အဖြူရောင်ဖျော့ဖျော့
+@Preview(showBackground = true, backgroundColor = 0xFFF0F0F0)
 @Composable
 fun UserListContentPreview() {
     BidOneAssessmentTheme {
